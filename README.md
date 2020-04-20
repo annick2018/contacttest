@@ -1,1 +1,3 @@
-# contacttest
+# maven-project
+
+Simple Maven Project
