@@ -12,7 +12,7 @@
 
   <artifactId>contacttest</artifactId>
   <packaging>war</packaging>
-  <name>contacttest</name>
+  <name>webapp</name>
   <description>Webapp.</description>
 
   <build>
